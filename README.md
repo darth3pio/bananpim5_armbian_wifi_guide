@@ -5,7 +5,9 @@ As the internet resources are few and far between I tinkered around until I had 
   
 ![overlay Directory](./assets/images/overlay_directory.png)
 
-Starting with modifying armbianEnv.txt to add in the overlay we have to make sure to factor in the overlay_prefix into our dtbo
+### Doing a directory listing we see the **meson-sm1-bananapi-m5-rtl8822cs.dtbo**
+
+### Starting with modifying armbianEnv.txt to add in the overlay we have to make sure to factor in the overlay_prefix into our dtbo
 ![armbianEnv Directory](./assets/images/armbianEnv_directory.png)
 ![armbianEnv Overlays](./assets/images/armbianEnv_overlays.png)
 ![modules Directory](./assets/images/modules_directory.png)
